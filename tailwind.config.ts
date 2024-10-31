@@ -32,7 +32,6 @@ const config: Config = {
             },
             fontFamily: {
                 "work-sans": ["var(--font-work-sans)"],
-                "title": ["Bona Nova SC", "serif"]
             },
             borderRadius: {
                 lg: "var(--radius)",

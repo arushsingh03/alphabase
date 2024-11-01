@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base cube shape -->
+  <path d="M40 120L100 150L160 120L100 90L40 120Z" fill="#E2E8F0"/>
+  <path d="M100 50L40 80L40 120L100 90L100 50Z" fill="#CBD5E1"/>
+  <path d="M100 50L160 80L160 120L100 90L100 50Z" fill="#94A3B8"/>
+  
+  <!-- Growth arrow -->
+  <path d="M85 75L115 75L115 95L130 80L100 55L70 80L85 95L85 75Z" fill="#F8FAFC"/>
+</svg>
